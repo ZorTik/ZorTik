@@ -3,10 +3,8 @@
 
 - 🔭 I’m freelancer in **DevRoom**, **Candor Services**, **Devnics**
 - 🌱 I’m currently learning **Django, Spring & other frameworks**
-- ⚡ Fun fact **Always fast, not last :blobDance:**
-- You can find me on Instagram! **@zortik_official**
-- Years 2019-2021 owner of Trenend.eu Network
-- Yes! My nickname sounds like **cake** in Czech :P
+- ⚡ Fun fact **My nick sounds like cake in Czech :blobDance:**
+- Years 2019-2021 owner of **Trenend.eu Network**
 
 <h3>My biggest projects:</h3>
 <hr>
