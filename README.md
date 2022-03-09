@@ -19,7 +19,7 @@
 - **Network Duels** (Cross-server system, 2019)
 - **Trenend Minigames** (Pack of systems and libraries, Used on Trenend.eu minigames portal, 2020)
 - **Trenend The Pit** (Single-server system, Minigame I've create with Speedy11CZ for Trenend.eu Network, 2020)
-& Other smaller projects and commissions - SkyBlock Core, GetDown, SkyWars & others
+- And other smaller projects and commissions - SkyBlock Core, GetDown, SkyWars & others
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
