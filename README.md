@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm ZorTik</h1>
 <h3 align="center">Innovator & Developer from Czech Republic</h3>
 
-- 🔭 I’m freelancer in **DevRoom**, **Candor Services**, **Devnics**
-
-- 🌱 I’m currently learning **Django, Spring & other frameworks**
-
 - You can find me on Instagram! **@zortik_official**
 
 - Years 2019-2021 owner of Trenend.eu Network
+
+- 🔭 I’m freelancer in **DevRoom**, **Candor Services**, **Devnics**
+
+- 🌱 I’m currently learning **Django, Spring & other frameworks**
 
 - ⚡ Fun fact **Always fast, not last :blobDance:**
 
