@@ -7,6 +7,17 @@
 - You can find me on Instagram! **@zortik_official**
 - Years 2019-2021 owner of Trenend.eu Network
 
+<h3>My biggest projects:</h3>
+- **Player Housing** (Cross-server system, Inspired from Hypixel.net, 2020)
+- **Player Servers** (Cross-server system, Players can create their own servers connected to large-scale Minecraft network, 2018)
+- **Resolver Framework** (Java Framework, Inspired from Spring Framework, used for manipulating Minecraft servers and services, 2021)
+- **Locus Keeper** (System, Used for dynamic management and generation of Minecraft servers within network, 2021)
+- **GUIfy** (Library, Used for creating in-game Minecraft GUIs, Big inspiration from Bootstrap Framework model, 2022)
+- **Network Duels** (Cross-server system, 2019)
+- **Trenend Minigames** (Pack of systems and libraries, Used on Trenend.eu minigames portal, 2020)
+- **Trenend The Pit** (Single-server system, Minigame I've create with Speedy11CZ for Trenend.eu Network, 2020)
++ Other smaller projects and commissions - SkyBlock Core, GetDown, SkyWars & others
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/zortik_official" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zortik_official" height="30" width="40" /></a>
