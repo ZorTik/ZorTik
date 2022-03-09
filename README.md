@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm ZorT!</h1> Sounds like cake in Czech :P
+<h1 align="center">Hi 👋, I'm ZorT!</h1>
 <h3 align="center">Innovator & Developer from Czech Republic</h3>
+<h4 align="center">Yes, my nick sounds like cake in Czech :P</h4>
 
 
 - 🔭 I’m freelancer in **DevRoom**, **Candor Services**, **Devnics**
