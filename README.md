@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm ZorT! <small>Sounds like cake in Czech :P</small></h1>
+<h1 align="center">Hi 👋, I'm ZorT!</h1> Sounds like cake in Czech :P
 <h3 align="center">Innovator & Developer from Czech Republic</h3>
 
 
