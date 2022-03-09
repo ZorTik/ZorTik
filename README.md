@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm ZorT!</h1>
 <h3 align="center">Innovator & Developer from Czech Republic</h3>
-<h4 align="center">Yes, my nick sounds like cake in Czech :P</h4>
+<p align="center">Yes, my nick sounds like cake in Czech :P</p>
 
-
+<br>
 - 🔭 I’m freelancer in **DevRoom**, **Candor Services**, **Devnics**
 - 🌱 I’m currently learning **Django, Spring & other frameworks**
 - ⚡ Fun fact **Always fast, not last :blobDance:**
