@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/67344817/176185706-ab57e51a-1649-4255-824f-1419f7dba178.png"></img>
+  <img src="https://user-images.githubusercontent.com/67344817/176185706-ab57e51a-1649-4255-824f-1419f7dba178.png" width="80"></img>
 </p>
 <h1 align="center">Eyo, it's me!</h1>
 <h3 align="center">ZorTik, the cake 🍰 lover</h3>
