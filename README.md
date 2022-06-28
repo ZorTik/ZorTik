@@ -1,12 +1,15 @@
-<h1 align="center">Hi 👋, I'm ZorT!</h1>
-<h3 align="center">Innovator & Developer from Czech Republic</h3>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/67344817/176185706-ab57e51a-1649-4255-824f-1419f7dba178.png"></img>
+</p>
+<h1 align="center">Eyo, it's me!</h1>
+<h3 align="center">ZorTik, the cake 🍰 lover</h3>
 
 - 🔭 I’m freelancer in **DevRoom**, **Candor Services**, **Devnics**
 - 🥇 Years 2019-2021 owner of **Trenend.eu Network**
 - 🌱 I’m currently learning **Django, Spring & other frameworks**
 - ⚡ Fun fact **My nick sounds like cake in Czech :blobDance:**
 
-<h3>My biggest projects:</h3>
+<h1>My biggest projects:</h1>
 
 - **Player Housing** (Cross-server system, Inspired from Hypixel.net, 2020)
 - **Player Servers** (Cross-server system, Players can create their own servers connected to large-scale Minecraft network, 2018)
