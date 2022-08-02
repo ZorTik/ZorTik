@@ -15,7 +15,7 @@
 - **Player Servers** (Cross-server system, Players can create their own servers connected to large-scale Minecraft network, 2018)
 - **Resolver Framework** (Java Framework, Inspired from Spring Framework, used for manipulating Minecraft servers and services, 2021)
 - **Locus Keeper** (System, Used for dynamic management and generation of Minecraft servers within network, 2021)
-- **GUIfy** (Library, Used for creating in-game Minecraft GUIs, Big inspiration from Bootstrap Framework model, 2022)
+- **GUIfy/Containr** (Library, Used for creating in-game Minecraft GUIs, Big inspiration from Bootstrap Framework model, 2022)
 - **Network Duels** (Cross-server system, 2019)
 - **Trenend Minigames** (Pack of systems and libraries, Used on Trenend.eu minigames portal, 2020)
 - **Trenend The Pit** (Single-server system, Minigame I've create with Speedy11CZ for Trenend.eu Network, 2020)
