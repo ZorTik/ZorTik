@@ -1,8 +1,7 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/67344817/176185706-ab57e51a-1649-4255-824f-1419f7dba178.png" width="100"></img>
 </p>
-<h1 align="center">Eyo, it's me!</h1>
-<h3 align="center">ZorTik, the cake 🍰 lover</h3>
+<h3>ZorTik, the cake 🍰 lover</h3>
 
 - 🔭 I’m freelancer in **DevRoom**, **Candor Services**, **Devnics**, **Orbital Studios**, **Mixelate**
 - 🥇 Years 2019-2021 owner of **Trenend.eu Network**
