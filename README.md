@@ -1,9 +1,11 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/67344817/176185706-ab57e51a-1649-4255-824f-1419f7dba178.png" width="100"></img>
 </p>
+
+> I wanna surf sea of the best code in the world. Join me or leave me. Also remember, no system is perfect and no system is perfectly safe. Do you think that you can't be better? Do you think that you've reached your best? Believe me, there is always something to improve...
 <h1>"ZorT" ZorTik (🍰 lover)</h1>
 
-- 🔭 I’m freelancer in **DevRoom**, **Candor Services**, **Devnics**, **Orbital Studios**, **Mixelate**
+- 🔭 Freelancer in **DevRoom**, **Candor Services**, **Devnics**, **Orbital Studios**, **Mixelate**
 - 🥇 Years 2019-2021 owner of **Trenend.eu Network**
 - 🌱 I’m currently learning **Django, Spring & other frameworks**
 - ⚡ Fun fact **My nick sounds like cake in Czech :blobDance:**
