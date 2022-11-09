@@ -3,6 +3,9 @@
 </p>
 
 > I wanna surf sea of the best code in the world. Join me or leave me. Also remember, no system is perfect and no system is perfectly safe. Do you think that you can't be better? Do you think that you've reached your best? Believe me, there is always something to improve...
+
+![Badge](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white) ![Badge](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![Badge](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white) ![Badge](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+
 <h1>I'm 🍰 lover, and also...</h1>
 
 - 🔭 Freelancer in **DevRoom**, **Candor Services**, **Devnics**, **Orbital Studios**, **Mixelate**
