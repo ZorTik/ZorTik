@@ -6,14 +6,14 @@
 
 ![Badge](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white) ![Badge](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![Badge](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white) ![Badge](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 
-<h1>I'm 🍰 lover, and also...</h1>
+<h3>I'm 🍰 lover, and also...</h3>
 
 - 🔭 Freelancer in **DevRoom**, **Candor Services**, **Devnics**, **Orbital Studios**, **Mixelate**
 - 🥇 Years 2019-2021 owner of **Trenend.eu Network**
 - 🌱 Currently learning **Django, Spring & other frameworks**
 - ⚡ Fun fact **My nick sounds like cake in Czech :blobDance:**
 
-<h1>My biggest projects</h1>
+<h3>My biggest projects</h3>
 
 - **Player Housing** (Cross-server system, Inspired from Hypixel.net, 2020)
 - **Player Servers** (Cross-server system, Players can create their own servers connected to large-scale Minecraft network, 2018)
