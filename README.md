@@ -10,7 +10,7 @@
 - 🌱 Currently learning **Django, Spring & other frameworks**
 - ⚡ Fun fact **My nick sounds like cake in Czech :blobDance:**
 
-<h1>My biggest projects:</h1>
+<h1>My biggest projects</h1>
 
 - **Player Housing** (Cross-server system, Inspired from Hypixel.net, 2020)
 - **Player Servers** (Cross-server system, Players can create their own servers connected to large-scale Minecraft network, 2018)
