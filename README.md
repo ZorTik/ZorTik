@@ -9,7 +9,7 @@
 <h3>| I'm 🍰 lover, and also...</h3>
 
 - 🔭 Freelancer in **DevRoom**, **Candor Services**, **Devnics**, **Orbital Studios**, **Mixelate**
-- 🥇 Years 2019-2021 owner of **Trenend.eu Network**
+- 🥇 Years 2019-2021, 2022-present owner of **Trenend.eu Network**
 - 🌱 Currently learning **Django, Spring & other frameworks**
 - ⚡ Fun fact **My nick sounds like cake in Czech :blobDance:**
 
