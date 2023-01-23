@@ -10,8 +10,6 @@
 
 - 🔭 Freelancer in **DevRoom**, **Candor Services**, **Devnics**, **Orbital Studios**, **Mixelate**
 - 🥇 Years 2019-2021, 2022-present owner of **Trenend.eu Network**
-- 🌱 Currently learning **Django, Spring & other frameworks**
-- ⚡ Fun fact **My nick sounds like cake in Czech :blobDance:**
 
 <h3>| My biggest projects</h3>
 
