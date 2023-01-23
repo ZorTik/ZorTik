@@ -10,7 +10,7 @@
 
 - 🔭 Freelancer in **DevRoom**, **Candor Services**, **Devnics**, **Orbital Studios**, **Mixelate**
 - 🥇 Years 2019-2021, 2022-present owner of **Trenend.eu Network**
-- 🕑 Code-lover since 2017/2018
+- 🕑 Code-lover since \*A long time ago :D\*
 
 <h3>| My biggest projects</h3>
 
