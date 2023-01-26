@@ -17,6 +17,7 @@
 - **Player Housing** (Cross-server system, Inspired from Hypixel.net, 2020)
 - **Player Servers** (Cross-server system, Players can create their own servers connected to large-scale Minecraft network, 2018)
 - **Resolver Framework** (Java Framework, Inspired from Spring Framework, used for manipulating Minecraft servers and services, 2021)
+- **AdvancedSQLClient** (Fast and extensible Java SQL library & ORM, 2022)
 - **Locus Keeper** (System, Used for dynamic management and generation of Minecraft servers within network, 2021)
 - **GUIfy/Containr** (Library, Used for creating in-game Minecraft GUIs, Big inspiration from Bootstrap Framework model, 2022)
 - **AdvancedSQLClient** (An Ultimage SQL client for Java with Json Integration! Inspired from many frameworks, 2022)
