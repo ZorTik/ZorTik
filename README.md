@@ -12,7 +12,7 @@
 - 🥇 Years 2019-2021, 2022-present owner of **Trenend.eu Network**
 - 🥇 Years 2023-present owner of **BattleLand.cz**
 - 🕑 Code-lover since \*A long time ago :D\*
-- 🌐 Web: https://zortik.github.io
+- 🌐 Web: https://zortik.vercel.app
 
 <h3>| My biggest projects</h3>
 
