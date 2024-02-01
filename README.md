@@ -10,7 +10,7 @@
 
 - 🔭 Freelancer in **DevRoom**, **Candor Services**, **Devnics**, **Orbital Studios**, **Mixelate**
 - 🥇 Years 2019-2021, 2022-present owner of **Trenend.eu Network**
-- 🥇 Years 2023-present owner of **BattleLand.cz**
+- 🥇 Years 2023-2023 owner of **BattleLand.cz**
 - 🕑 Code-lover since \*A long time ago :D\*
 - 🌐 Web: https://zortik.vercel.app
 
