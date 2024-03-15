@@ -10,7 +10,7 @@
 
 - 🔭 Freelancer in **DevRoom**, **Candor Services**, **Devnics**, **Orbital Studios**, **Mixelate**
 - 🥇 Owner of **Trenend.eu Network** (www.trenend.eu)
-- 🥇 Former owner of **BattleLand.cz**
+- 🥇 Former owner of **BattleLand.cz Network**
 - 🕑 Code-lover since \*A long time ago :D\*
 - 🌐 Web: https://zortik.vercel.app
 
