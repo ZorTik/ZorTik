@@ -22,7 +22,7 @@
 - **AdvancedSQLClient** (Fast and extensible Java SQL library & ORM, 2022)
 - **Locus Keeper** (System, Used for dynamic management and generation of Minecraft servers within network, 2021)
 - **GUIfy/Containr** (Library, Used for creating in-game Minecraft GUIs, Big inspiration from Bootstrap Framework model, 2022)
-- **AdvancedSQLClient** (An Ultimage SQL client for Java with Json Integration! Inspired from many frameworks, 2022)
+- **AdvancedSQLClient** (An Advanced SQL tool for Java with Json Integration!, 2022)
 - **Network Duels** (Cross-server system, 2019)
 - **Trenend Minigames** (Pack of systems and libraries, Used on Trenend.eu minigames portal, 2020)
 - **Trenend The Pit** (Single-server system, Minigame I've create with Speedy11CZ for Trenend.eu Network, 2020)
