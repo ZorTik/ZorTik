@@ -25,7 +25,6 @@
 - **Node Server Manager (NSM)** (Fast services management engine based on Docker, 2024)
 - **Locus Keeper** (System, Used for dynamic management and generation of Minecraft servers within network, 2021)
 - **GUIfy/Containr** (Library, Used for creating in-game Minecraft GUIs, Big inspiration from Bootstrap Framework model, 2022)
-- **AdvancedSQLClient** (An Advanced SQL tool for Java with Json Integration!, 2022)
 - **Network Duels** (Cross-server system, 2019)
 - **Trenend Minigames** (Pack of systems and libraries, Used on Trenend.eu minigames portal, 2020)
 - **Trenend The Pit** (Single-server system, Minigame I've create with Speedy11CZ for Trenend.eu Network, 2020)
