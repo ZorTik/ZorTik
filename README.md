@@ -13,6 +13,7 @@
 - 🔭 Freelancer at **DevRoom**, **Devnics**, **Mixelate**
 - 💻 Head of Development at **Batlify.com** (upcoming cloud provider)
 - 🕑 Code-lover since \*A long time ago :D\*
+- 📜 Experience: ~6 years of backend development
 - 🌐 Web: https://zortik.vercel.app
 
 <h3>| My biggest projects</h3>
@@ -21,6 +22,7 @@
 - **Player Servers** (Cross-server system, Players can create their own servers connected to large-scale Minecraft network, 2018)
 - **Resolver Framework** (Java Framework, Inspired from Spring Framework, used for manipulating Minecraft servers and services, 2021)
 - **AdvancedSQLClient** (Fast and extensible Java SQL library & ORM, 2022)
+- **Node Server Manager (NSM)** (Fast services management engine based on Docker, 2024)
 - **Locus Keeper** (System, Used for dynamic management and generation of Minecraft servers within network, 2021)
 - **GUIfy/Containr** (Library, Used for creating in-game Minecraft GUIs, Big inspiration from Bootstrap Framework model, 2022)
 - **AdvancedSQLClient** (An Advanced SQL tool for Java with Json Integration!, 2022)
