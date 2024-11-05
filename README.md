@@ -8,9 +8,10 @@
 
 <h3>| I'm 🍰 lover, and also...</h3>
 
-- 🔭 Freelancer in **DevRoom**, **Devnics**, **Orbital Studios**, **Mixelate**
 - 🥇 Owner of **Trenend.eu Network** (www.trenend.eu)
 - 🥇 Former owner of **BattleLand.cz Network**
+- 🔭 Freelancer at **DevRoom**, **Devnics**, **Mixelate**
+- 💻 Head of Development at Batlify.com (upcoming hosting)
 - 🕑 Code-lover since \*A long time ago :D\*
 - 🌐 Web: https://zortik.vercel.app
 
