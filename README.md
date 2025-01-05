@@ -12,7 +12,7 @@
 - 🥇 Former owner of **BattleLand.cz**, **Elementix.cz**, **OverShot.cz**
 - 🔭 Freelancer at **DevRoom**, **Devnics**, **Mixelate**
 - 🕑 Code-lover since \*A long time ago :D\*
-- 📜 Experience: ~6 years of backend development
+- 📜 Experience: ~7 years of backend development
 - 🌐 Web: https://zortik.vercel.app
 
 <h3>| My biggest projects</h3>
