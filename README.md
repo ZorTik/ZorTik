@@ -10,7 +10,8 @@
 
 - 🥇 Owner of **Trenend.eu Network** (www.trenend.eu)
 - 🥇 Former owner of **BattleLand.cz**, **Elementix.cz**, **OverShot.cz**
-- 🔭 Freelancer at **DevRoom**, **Devnics**, **Mixelate**
+- 🔭 Freelancer
+- 🌠 Daydreamer
 - 🕑 Code-lover since \*A long time ago :D\*
 - 📜 Experience: ~7 years of backend development
 - 🌐 Web: https://zortik.vercel.app
