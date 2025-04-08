@@ -2,7 +2,7 @@
   <img src="https://user-images.githubusercontent.com/67344817/176185706-ab57e51a-1649-4255-824f-1419f7dba178.png" width="100"></img>
 </p>
 
-> I wanna surf sea of the best code in the world. Join me or leave me. Also remember, no system is perfect and no system is perfectly safe. Do you think that you can't be better? Do you think that you've reached your best? Believe me, there is always something to improve...
+> I wanna surf sea of the best code in the world. Join me or leave me. Do you think that you can't be better? Do you think that you've reached your best? Believe me, there is always something to improve.
 
 ![Badge](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white) ![Badge](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Badge](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 
