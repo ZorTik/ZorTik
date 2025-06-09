@@ -13,7 +13,7 @@
 - 🔭 Freelancer
 - 🌠 Daydreamer
 - 🕑 Code-lover
-- 📜 Experience: ~7 years of backend development
+- 📜 Experience: ~7 years of active backend development
 - 🌐 Web: https://zortik.vercel.app
 
 <h3>| My biggest projects</h3>
