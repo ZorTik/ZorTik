@@ -18,6 +18,7 @@
 
 <h3>| My biggest projects</h3>
 
+- **Housing Universe** (Cloud-native distributed metaverse in Minecraft, my biggest project to date, 2025)
 - **Creative Housing** (Cross-server system, Inspired from Hypixel.net, 2020)
 - **Player Servers** (Cross-server system, Players can create their own servers connected to large-scale Minecraft network, 2018)
 - **Resolver Framework** (Java Framework, Inspired from Spring Framework, used for manipulating Minecraft servers and services, 2021)
