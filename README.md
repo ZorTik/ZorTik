@@ -8,7 +8,8 @@
 
 <h3>| It's me, more than a 🍰 lover...</h3>
 
-- 🥇 Owner of **Trenend.eu Network** (www.trenend.eu)
+- 🥇 Co-Owner of **Trenend.eu Network** (www.trenend.eu) ❤️
+- 🥇 Co-Owner of **DecentSoftware.eu** (https://github.com/DecentSoftware-eu) ❤️
 - 🥇 Former owner of **BattleLand.cz**, **Elementix.cz**, **OverShot.cz**
 - 🔭 Freelancer
 - 🌠 Daydreamer
